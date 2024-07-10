@@ -1,0 +1,81 @@
+
+.layout_style{
+    margin: 20px;
+}
+
+.nav_parent_style{
+
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+.nav_style{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+    
+}
+
+.btn_download_style{
+
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.href_title_style{
+
+  color:black;
+  font-size: xx-large;
+  text-decoration: none;
+}
+
+.img_hero{
+
+    position: absolute;     
+}
+
+.img_group_style{
+
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 40%;
+    
+}
+.hero_title{
+    position: absolute;
+   text-align: center;
+    margin-top: 330px;
+    margin-left: 15%;
+    font-size: 6cap;
+   
+}
+.para_graph{
+    position: absolute;
+    font-size: 3cap;
+    text-align: center;
+    margin-top: 500px;
+    margin-left: 200px;
+}
+.btn_contact{
+    position: absolute;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 650px;
+    margin-left: 650px;
+    color: white;
+    background-color: black;
+
+.inspir
+
+
+
+
+
+    
+}
